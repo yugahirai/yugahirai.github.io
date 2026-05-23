@@ -1,7 +1,9 @@
 {% if paginator.pages %}
 <section class="catalogue">
   {% for page in paginator.pages -%}
+  {% if not page.extra.hidden %}
   {{ macros::page(page=page) }}
+  {% endif %}
   {%- endfor %}
 </section>
 
