@@ -1,7 +1,7 @@
-base_url = "https://mabuya.vercel.app/"
-title = "Mabuya"
-description = "Mabuya is a minimal Zola theme for building light and SEO-ready blogs. Put your work front and center with Mabuya as the base of your project."
-author = "Miguel Pimentel"
+base_url = "https://yugahirai.github.io/"
+title = "Yuga Hirai : Quantum Computing Blog Posts"
+description = "Yuga Hirai is a student at Keio Univ in Japan."
+author = "Yuga Hirai"
 
 compile_sass = true
 generate_feeds = true
@@ -19,9 +19,9 @@ theme = "dark-plus"
 # More syntax highlighting themes: https://www.getzola.org/documentation/getting-started/configuration/#syntax-highlighting
 
 [extra]
-author = "Miguel Pimentel"
-email = "contact@miguelpimentel.do"
-github = "https://github.com/semanticdata"
+author = "Yuga Hirai"
+email = "yuga917@keio.jp"
+github = "https://github.com/yugahirai"
 timeformat = "%B %e, %Y"                   # e.g. June 14, 2021
 
 [[extra.menu]]

@@ -1,14 +1,13 @@
 ---
-title: Hello World
+title: 'The First Paper: "No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth"'
 description: "Ex est reprehenderit laboris officia duis veniam officia. Adipisicing irure eu tempor anim nisi ea consequat dolore pariatur dolore mollit excepteur ea. Et ex reprehenderit officia eiusmod fugiat. Ad nulla tempor dolore sit culpa nisi. Dolor nostrud est do mollit officia quis."
-date: 2023-07-30
+date: 2026-03-2
 taxonomies:
   tags: [placeholder]
 ---
 
-Lorem markdownum auras canities nostros caede Nilus est sacer atque Telephon totoque. Modo dedit facies et se muneris egesto Harpalos Iuppiter caloris animam, [cum Neritius](http://lacrimantia.com/) potuit premis consistere facundia fecere. Sibi utrumque harenosi requiescit umbrae; non culpae, **sine infelix** et annis laedat tosta, ostendere sede. Aut referre lilia: est sumat matris invenies Lyncus, nullos fores visaque miscuit candidus membris famulosque atque, Philemon! Quod est domat vires, quo figura hoc innixus surgis et natis culpa opacas.
+Today, my first quantum computing paper have been published as a arXive paper [arXiv:2603.01628](https://arxiv.org/abs/2603.01628).
 
-Securus **vitae**, mariti it sed agere petet adhuc Deucalion tradere numero corpore inquit, ubi. Sinat nec in intorquet corpus demite multa, in scelus Pelasgae cladis.
 
 Perpetuos flagrant cedere anum Cyane caelumque decor. Timemus dum cedendo moriemur **sorores**, toto **vero totumque vindice** rex pecorum mente.
 
