@@ -11,10 +11,12 @@ build_search_index = false
 taxonomies = [{ name = "tags", feed = true }]
 
 [markdown]
-highlight_code = true
-highlight_theme = "visual-studio-dark"
-# More syntax highlighting themes: https://www.getzola.org/documentation/getting-started/configuration/#syntax-highlighting
 smart_punctuation = true
+
+[markdown.highlighting]
+enabled = true
+theme = "dark-plus"
+# More syntax highlighting themes: https://www.getzola.org/documentation/getting-started/configuration/#syntax-highlighting
 
 [extra]
 author = "Miguel Pimentel"
