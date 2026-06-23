@@ -22,7 +22,7 @@ I am a student at Keio University in Japan, researching quantum computing.
 ### Publications ([arXiv](https://arxiv.org/a/hirai_y_1.html))
 
 <!-- ARXIV_START -->
-- ["A 2d × d × d Spacetime Volume Implementation of a Logical S Gate in the Surface Code"](http://arxiv.org/abs/2604.13632v1) — Yuga Hirai, Shota Ikari, Yosuke Ueno, Yasunari Suzuki (2026)
+- ["No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth"](http://arxiv.org/abs/2603.01628v2) — Yuga Hirai, Shota Ikari, Yosuke Ueno, Yasunari Suzuki (2026)
 
-- ["No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth"](http://arxiv.org/abs/2603.01628v1) — Yuga Hirai, Shota Ikari, Yosuke Ueno, Yasunari Suzuki (2026)
+- ["A 2d × d × d Spacetime Volume Implementation of a Logical S Gate in the Surface Code"](http://arxiv.org/abs/2604.13632v1) — Yuga Hirai, Shota Ikari, Yosuke Ueno, Yasunari Suzuki (2026)
 <!-- ARXIV_END -->
