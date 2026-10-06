@@ -16,7 +16,7 @@ I am a student at Keio University in Japan, researching quantum computing.
 
 ### Research Interests
 
-- Qantum Computing
+- Quantum Computing
 - Quantum error correction
 
 ### Publications ([arXiv](https://arxiv.org/a/hirai_y_1.html))
@@ -25,4 +25,7 @@ I am a student at Keio University in Japan, researching quantum computing.
 - ["No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth"](http://arxiv.org/abs/2603.01628v2) — Yuga Hirai, Shota Ikari, Yosuke Ueno, Yasunari Suzuki (2026)
 
 - ["A 2d × d × d Spacetime Volume Implementation of a Logical S Gate in the Surface Code"](http://arxiv.org/abs/2604.13632v1) — Yuga Hirai, Shota Ikari, Yosuke Ueno, Yasunari Suzuki (2026)
+
+- ["Multi-Yoked Surface Codes"](https://arxiv.org/abs/2610.04613) — Yuga Hirai, Yasunari Suzuki (2026)
 <!-- ARXIV_END -->
+
